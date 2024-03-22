@@ -1,4 +1,3 @@
-import React from 'react'
 import offer from '../../assets/images/offer.svg'
 import Button from '../../components/Button'
 import arrowRight from '../../assets/icons/arrow-right.svg'
